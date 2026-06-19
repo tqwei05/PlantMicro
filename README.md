@@ -1,7 +1,7 @@
 # PlantMicro
 
 <p align="center">
-  <img src="main_fig.pdf" width="95%">
+  <img src="main_fig.pdf" width="90%">
 </p>
 
 Official repository for the paper:
