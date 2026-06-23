@@ -2,9 +2,7 @@
 
 Official repository for the paper:
 
-## Benchmarking Vision-Language Models for Microscopic Plant Image Understanding
-
-
+## [Benchmarking Vision-Language Models for Microscopic Plant Image Understanding](https://arxiv.org/abs/2606.22497)
 
 PlantMicro is a benchmark for evaluating vision-language models on microscopic plant image understanding tasks.
 
