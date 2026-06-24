@@ -16,4 +16,5 @@ Microscopic imaging is essential for studying plant biology and pathology at cel
 </div>
 
 ### Dataset Access
-🚧 PlantMicro will be released upon publication.
+PlantMicro is accessible through:
+[Google Drive](https://drive.google.com/file/d/1lAL4rVOw2gcRDQPasd12VSnBhW6LS6Hp/view?usp=drive_link)
