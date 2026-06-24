@@ -1,6 +1,6 @@
 # Benchmarking Vision-Language Models for Microscopic Plant Image Understanding
 
-Official repository for the paper: [Benchmarking Vision-Language Models for Microscopic Plant Image Understanding](https://arxiv.org/abs/2606.22497)
+Dataset repository for the paper: [Benchmarking Vision-Language Models for Microscopic Plant Image Understanding](https://arxiv.org/abs/2606.22497)
 
 
 ## Introduction
