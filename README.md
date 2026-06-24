@@ -13,7 +13,7 @@ Microscopic imaging is essential for studying plant biology and pathology at cel
 ### Data Collection and Curation
 We collect plant microscopy datasets from peer-reviewed publications and open repositories, covering diverse biological domains and imaging modalities. Openly available datasets are prioritized, while additional permissions are obtained when needed. All datasets are standardized using a unified curation protocol: images are reorganized, assigned unique identifiers, and converted to JPEG.
 <div align="center">
-  <img src="figures/plantmicro_pipeline.png" width="80%">
+  <img src="figures/plantmicro_pipeline.png" width="85%">
 </div>
 
 ### Dataset Access
